@@ -18735,40 +18735,4 @@
 	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/Proxy.aspx?masterview=nwacollabprint",
 	"domain": "Abstract",
 	"ups": "0"
-},
-{
-	"nfr_name": "Wrappability",
-	"tactic_name": "Reduce Coupling",
-	"pattern_name": "External Configuration Store Pattern",
-	"context_type": "Definition",
-	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/External Configuration Store Pattern.aspx?masterview=nwacollabprint",
-	"domain": "Embedded",
-	"ups": "0"
-},
-{
-	"nfr_name": "Wrappability",
-	"tactic_name": "Reduce Coupling",
-	"pattern_name": "Facade",
-	"context_type": "Definition",
-	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/Facade.aspx?masterview=nwacollabprint",
-	"domain": "Embedded",
-	"ups": "0"
-},
-{
-	"nfr_name": "Wrappability",
-	"tactic_name": "Reduce Coupling",
-	"pattern_name": "Mediator",
-	"context_type": "Definition",
-	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/Mediator.aspx?masterview=nwacollabprint",
-	"domain": "Embedded",
-	"ups": "0"
-},
-{
-	"nfr_name": "Wrappability",
-	"tactic_name": "Reduce Coupling",
-	"pattern_name": "Proxy",
-	"context_type": "Definition",
-	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/Proxy.aspx?masterview=nwacollabprint",
-	"domain": "Embedded",
-	"ups": "0"
 }
