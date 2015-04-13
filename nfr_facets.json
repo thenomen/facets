@@ -1,4 +1,4 @@
-{
+[{
 	"nfr_name": "Accessibility",
 	"tactic_name": "Barrier-free Access",
 	"pattern_name": "Interpretor",
@@ -20817,4 +20817,4 @@
 	"context_url": "https://workspace.cee.siemens.com/content/00000102/Wiki/Proxy.aspx?masterview=nwacollabprint",
 	"domain": "Abstract",
 	"ups": "0"
-}
+}]
